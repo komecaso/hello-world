@@ -1,2 +1,2 @@
 # hello-world
-my first
+This is my my first GIT.
